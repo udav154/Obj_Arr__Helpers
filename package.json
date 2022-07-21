@@ -1,0 +1,22 @@
+{
+  "name": "obj_arr__helpers",
+  "version": "1.0.0",
+  "description": "Helpers for work with objects and arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udav154/Obj_Arr__Helpers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udav154/Obj_Arr__Helpers/issues"
+  },
+  "homepage": "https://github.com/udav154/Obj_Arr__Helpers#readme",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
